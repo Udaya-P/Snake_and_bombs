@@ -13,7 +13,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/snakes_and_bombs.git
+    git clone https://github.com/Udaya-P/Snake_and_bombs.git
     ```
 2. Navigate to the project directory:
     ```bash
